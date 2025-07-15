@@ -22,7 +22,6 @@
 
 <script>
 import axios from 'axios'
-import { Alert } from 'react-bootstrap'
 
 export default {
   data() {
